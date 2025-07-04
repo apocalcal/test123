@@ -18,7 +18,7 @@ public class CalculatorController {
 
     @GetMapping("/health")
     public String healthCheck() {
-        return "I'm still alive!😁🐋";
+        return "I'm still alive!😁🐋🛶🚣‍♀️🚣‍♂️";
     }
 
     @GetMapping("/plus")
